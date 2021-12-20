@@ -19,8 +19,8 @@ public class MainActivity extends AppCompatActivity {
 
     WebView wView;      // 웹뷰
 
-    String lat = "37.5182077";
-    String lon = "126.9747156";
+    String lat = "37.4963363";
+    String lon = "127.0583563";
 
 
     @Override
